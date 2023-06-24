@@ -58,7 +58,7 @@ function SkillList() {
     <div className="skill-list">
       <Skill color="orange" skill="PHP" emoji="Professional" />
       <Skill color="blue" skill="React" emoji="Professional" />
-      <Skill color="pink" skill="Javascript" emoji="Professional" />
+      <Skill color="pink" skill="Javascript555" emoji="Professional" />
       <Skill color="red" skill="Laravel" emoji="Professional" />
     </div>
   );
